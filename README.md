@@ -7,3 +7,5 @@ This is the repository for the sensors + data collection portion of the Engineer
 `rx.test.ino` is for testing only, for the receiver
 
 `rx_serial.ino` is for real-time operation only, for the receiver
+
+`serial_port.ino` is for the Electron (change name of IFTTT applet and time interval accordingly)
